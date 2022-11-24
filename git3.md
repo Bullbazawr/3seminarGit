@@ -12,4 +12,4 @@
 - git pull - получение изменений и слияние их с локальной верссией
 - git push - отправка локальную версию репозитория на внешний
 
-* git commit -am - git add и git commit в однов
+* git commit -am - git add и git commit в одном
